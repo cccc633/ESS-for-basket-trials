@@ -1,0 +1,13 @@
+bacisCheckDIC           Compute the DIC value for the classification
+                        model.
+bacisClassification     Conduct classification for subgroups.
+bacisOneTrial           Running one trial computation based on the
+                        BaCIS model.
+bacisPlotClassification
+                        Plot the posterior density of theta in the
+                        classification model.
+bacisSubgroupPosterior
+                        Compute the posterior distribution of response
+                        rates of subgroups using the BaCIS method.
+bacisThetaPosterior     Compute the posterior distribution of theta in
+                        the classification model.

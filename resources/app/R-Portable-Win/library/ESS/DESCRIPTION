@@ -1,0 +1,20 @@
+Package: ESS
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person("firstname", "lastname", , "your@email.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: What license is it under?
+Imports: coda, config, cowplot, DT, extraDistr, forestploter, ggplot2,
+        ggpubr, golem, grid, parallel, readxl, rjags, shiny, tidyr
+DisplayMode: Showcase
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-11-30 08:45:59 UTC; admin
+Author: firstname lastname [aut, cre]
+Maintainer: firstname lastname <your@email.com>
+Depends: R (>= 3.5.0)
+Built: R 4.2.0; ; 2024-11-30 08:46:02 UTC; windows

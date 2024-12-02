@@ -1,0 +1,23 @@
+get.boundary            Generate the optimal dose escalation and
+                        deescalation boundaries for conducting the
+                        trial.
+get.oc                  Generate operating characteristics for single
+                        agent trials
+get.oc.comb             Generate operating characteristics for drug
+                        combination trials
+next.comb               Determine the dose combination for the next
+                        cohort of new patients for drug-combination
+                        trials that aim to find a MTD
+next.subtrial           Determine the starting dose and the
+                        dose-searching space for next subtrial in
+                        waterfall design
+plot.boin               Plot the flowchart and simulation results for
+                        BOIN designs
+print.boin              Generate descriptive summary for objects
+                        returned by other functions
+select.mtd              Select the maximum tolerated dose (MTD) for
+                        single agent trials
+select.mtd.comb         Select the maximum tolerated dose (MTD) or MTD
+                        contour for drug combination trials
+summary.boin            Generate descriptive summary for objects
+                        returned by other functions
